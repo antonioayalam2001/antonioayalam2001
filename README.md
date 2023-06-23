@@ -1,7 +1,5 @@
 # Hola!!! Mi nombré es Jose Antonio Mora 
-#### Tu puedes llamarme **Tony**
-
-
+#### Todos me dicen : **Tony**
 >¿Quién Soy?         
 > Actual estudiante de Ingenieria en Sistemas Computaciones en ESCOM - IPN.  
 *Mi meta es convertirme en desarrollador Full-stack.*
@@ -45,3 +43,4 @@ Si te es de ayuda Puchale a la estrellita
 [![java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=white&labelColor=FC4C02)]()
 [![sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)]()
 
+**Culquier token, o API en contrado en este repositorio ya ha sido desactivado o eliminado, es solo un ejemplo para tomar como guia**
