@@ -46,6 +46,7 @@ Si te es de ayuda Puchale a la estrellita
 [![node.js](https://img.shields.io/badge/-nodejs-000000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)]()
 [![java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=white&labelColor=FC4C02)]()
 [![sass](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)]()
+[![Astro](https://img.shields.io/badge/-Astro-000000?style=for-the-badge&logo=astro&logoColor=white&labelColor=a671a5)]()
 
 **Culquier token, o API encontrado en este repositorio ya ha sido desactivado o
 eliminado, es solo un ejemplo para tomar como guia**
